@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Omar abdullah</h1>
 <h3 align="center">A passionate Flutter developer from Egypt.</h3>
-(img align="right" alt="Coding" width="400" src="https://paradox.ba/paradox/wp-content/uploads/2019/10/4paradox-animation-min.gif")
+img align="right" alt="Coding" width="400" src="https://paradox.ba/paradox/wp-content/uploads/2019/10/4paradox-animation-min.gif"
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omarabdullahmoharam&label=Profile%20views&color=0e75b6&style=flat" alt="omarabdullahmoharam" /> </p>
 
 <p align="left"> <a href="https://twitter.com/omar28abdulla1" target="blank"><img src="https://img.shields.io/twitter/follow/omar28abdulla1?logo=twitter&style=for-the-badge" alt="omar28abdulla1" /></a> </p>
