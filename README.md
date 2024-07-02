@@ -19,7 +19,7 @@
 <a href="https://medium.com/@omarmoharam790" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@omarmoharam790" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCs0z3Uhu6qhdzIkLWOhLZRg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="omarabdullah7684" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/omar.a.moharam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="omar.a.moharam" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/omar_moharam/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/omar_moharam/" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/omar_moharam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/omar_moharam/" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/omarmoharam790" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="omarmoharam790" height="30" width="40" /></a>
 </p>
 
