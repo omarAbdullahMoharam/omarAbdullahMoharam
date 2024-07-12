@@ -29,7 +29,7 @@
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=omarabdullahmoharam&" alt="omarabdullahmoharam" /></p>
 
 <p><img align="bottom" src="https://github-readme-stats.vercel.app/api/top-langs?username=omarabdullahmoharam&show_icons=true&locale=en&layout=compact" alt="omarabdullahmoharam" /></p>
-
+<p>-------------------------------------------------</p>
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=omarabdullahmoharam&show_icons=true&locale=en" alt="omarabdullahmoharam" /></p>
 
 
